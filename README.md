@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananya-vastare" alt="ananya-vastare" /></a> </p>
 
-- 💼 View my work portfolio at [https://ananyaspectrum.netlify.app/](https://ananyaspectrum.netlify.app/)
+- 💼 View my work portfolio at [https://ananyaravikiranvastare.netlify.app/](https://ananyaravikiranvastare.netlify.app/)
 
 - 📫 How to reach me **ananyarvastare@gmail.com**
 
